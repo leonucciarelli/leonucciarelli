@@ -1,4 +1,10 @@
-### Hi there 👋
+### This repository serves to show the results of the final text work for the Master's degree in Communication Engineering (ICT) at the Sapienza University of Rome.
+
+## --
+
+### ---
+
+## --
 
 <!--
 **Leox42/leox42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
