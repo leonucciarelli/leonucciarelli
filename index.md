@@ -7,6 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 ![Just a test](gen_1_1.png)
+<audio src="prova.wav" controls preload></audio>
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
