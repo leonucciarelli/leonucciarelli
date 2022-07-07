@@ -1,4 +1,4 @@
-### This repository serves to show the results of the final text work for the Master's degree in Communication Engineering (ICT) at the Sapienza University of Rome.
+### This repository serves to display the results of the final dissertation for the Master's degree in Communication Engineering (ICT) at the Sapienza University of Rome.
 
 ## --
 
