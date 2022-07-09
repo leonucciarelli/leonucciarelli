@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Test page under development
 
 You can use the [editor on GitHub](https://github.com/Leox42/leox42/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
