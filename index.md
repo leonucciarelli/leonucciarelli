@@ -1,5 +1,6 @@
 # Results of the final thesis for the Master's Degree in Communication Engineering (ICT) at the Sapienza University of Rome.
 ## Diffusion Models for Neural Audio Synthesis
+## Author: Leonardo Nucciarelli
 
 ![Result 1](noise_1_num_2.png)
 ![Result 2](noise_2_num_0.png)
