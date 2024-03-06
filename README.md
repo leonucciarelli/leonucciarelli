@@ -1,4 +1,4 @@
-### This repository serves to display the results of my final dissertation for the Master's degree in Communication Engineering (ICT) at the Sapienza University of Rome.
+### 
 
 ## --
 
